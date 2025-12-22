@@ -57,8 +57,8 @@ git, postgresql, mongodb, redis, docker, k8s, graphana, prometheus, loki
 
 `2025-now`
 __Freelance__
+- AI Agent for voice call FAQ on call center
 
-- AI Agent for voice call FAQ on call center \
 Target for that project was to lower costs and decrease client wait time on the telecom operators support line
   
 - Summarization of Medical DNA Tests \
