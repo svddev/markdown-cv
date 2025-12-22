@@ -63,34 +63,26 @@ __Freelance__
   - No-touch openning system for intercoms
 
 `2024-2025`
-__Lead Software Engineer__
-
-Metamentor
+__Lead Software Engineer__ at Metamentor
 
   - Product for AI analysis of calls (summarization & criteria calculation)
   - AI Analytics for book review (incresing speed of manual book review)
   - Generation of technical documentation for a mining company (generation taking into account regulatory documents)
 
 `2023-2024`
-__Software Engineer__
-
-Diasoft
+__Software Engineer__ at Diasoft
 
   - No Code Platform for creation advanced chat bots
   - No Code Platform for full-cycle ML/DL model creation & deployment
 
 `2019-2023`
-__Lab research group: Software Engineer__
-
-MIPT
+__Lab research group: Software Engineer__ at MIPT
 
   - AI for competitive bridge
   - Intellectual control of automated warehouse
 
 `2018-2020`
-__IT teacher__
-
-MIPT for schoolers
+__IT teacher__ at MIPT for schoolers
 
 ## Education
 
