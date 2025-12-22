@@ -22,6 +22,37 @@ Backend development: Rust, Python
 
 Computer Science, Software Development, high load and low latency systems
 
+### Hobbies
+
+Music, OpenSource development
+
+## Skillset
+### Rust
+
+axum, bindgen, clap, diesel, tracing, polars
+
+### Python
+
+`general`
+
+uv, bs4
+
+`backend-related`
+
+alembic, FastAPI, FastStream, SQLAlchemy, Pydantic, Pandas/Polars
+
+`ml-related`
+
+sklearn, torch, openai
+
+### Go
+
+gin-gonic, gorm, gin-swagger
+
+### Infrastructue
+
+docker, k8s, graphana, prometheus, loki
+
 ## Work experience
 
 `2024-2025`
@@ -44,11 +75,6 @@ __IT teacher__
 
 MIPT for schoolers
 
-## Skills
-
-
-## Hobbies
-
 ## Education
 
 `2018-2023`
@@ -56,10 +82,6 @@ __Moscow Institute of Physics and Technology__
 
 `2023 - now`
 __National Research University of Electronic Technology__
-
-
-
-
 
 <!-- ### Footer
 
