@@ -58,38 +58,34 @@ git, postgresql, mongodb, redis, docker, k8s, graphana, prometheus, loki
 `2025-now`
 __Freelance__
 
-
-- AI Agent for voice callbacks on call center (on-premise)
-- Summarization of Medical DNA Tests (on-premise)
-- No-touch openning system for intercoms
+  - AI Agent for voice callbacks on call center (on-premise) 
+  - Summarization of Medical DNA Tests (on-premise)
+  - No-touch openning system for intercoms
 
 `2024-2025`
 __Lead Software Engineer__
 
 Metamentor
 
-
-- Product for AI analysis of calls (summarization & criteria calculation)
-- AI Analytics for book review (incresing speed of manual book review)
-- Generation of technical documentation for a mining company (generation taking into account regulatory documents)
+  - Product for AI analysis of calls (summarization & criteria calculation)
+  - AI Analytics for book review (incresing speed of manual book review)
+  - Generation of technical documentation for a mining company (generation taking into account regulatory documents)
 
 `2023-2024`
 __Software Engineer__
 
 Diasoft
 
-
-- No Code Platform for creation advanced chat bots
-- No Code Platform for full-cycle ML/DL model creation & deployment
+  - No Code Platform for creation advanced chat bots
+  - No Code Platform for full-cycle ML/DL model creation & deployment
 
 `2019-2023`
 __Lab research group: Software Engineer__
 
 MIPT
 
-
-- AI for competitive bridge
-- Intellectual control of automated warehouse
+  - AI for competitive bridge
+  - Intellectual control of automated warehouse
 
 `2018-2020`
 __IT teacher__
