@@ -12,7 +12,7 @@ Software Engineer
 
 ## Currently
 
-Leading and develop opensource and commercial projects.
+Leading and develop web/web-desktop projects.
 
 ### Specialized in
 
@@ -24,12 +24,12 @@ Computer Science, Software Development, high load and low latency systems
 
 ### Hobbies
 
-Music, OpenSource development
+Music, Want to OpenSource
 
 ## Skillset
 ### Rust
 
-axum, bindgen, clap, diesel, tracing, polars
+axum, bindgen, clap, diesel, tokio, polars
 
 ### Python
 
