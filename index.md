@@ -12,7 +12,7 @@ Software Engineer
 
 ## Currently
 
-Leading and develop web/web-desktop projects.
+Leading and develop web projects.
 
 ### Specialized in
 
@@ -20,11 +20,11 @@ Backend development: Rust, Python
 
 ### Interests
 
-Computer Science, Software Development, high load and low latency systems
+Computer Science, Software Development, OSS
 
 ### Hobbies
 
-Music, Want to OpenSource
+Music production
 
 ## Skillset
 ### Rust
