@@ -114,10 +114,10 @@ __IT teacher__ at MIPT for schoolers
 ## Education
 
 `2018-2023`
-__Moscow Institute of Physics and Technology__ 
+__Московский  Физико__ (3ий курс)
 
 `2023 - now`
-__National Research University of Electronic Technology__
+__National Research University of Electronic Technology__ (3ой курс)
 
 <!-- ### Footer
 
